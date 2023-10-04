@@ -147,4 +147,6 @@ sh "полный путь к sh файлу" "относительный путь
 
 ![example](image.png)
 
-### 
+### 2. sh
+
+![example](image2.png)
