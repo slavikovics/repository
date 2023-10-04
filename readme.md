@@ -145,6 +145,6 @@ sh "полный путь к sh файлу" "относительный путь
 
 ### 1. bat
 
-![example](https://github.com/slavikovics/repository/blob/main/image.png)
+![example](image.png)
 
 ### 
